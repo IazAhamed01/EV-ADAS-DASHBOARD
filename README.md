@@ -170,6 +170,4 @@ ev_dash/
 - Ultrasonic sensing uses EXTI interrupt edge-capture rather than software GPIO polling, since QEMU (which PICSimLab runs on) doesn't guarantee consistent instruction-level timing for busy-wait loops.
 - TTC-based collision severity is gated to speeds above 10 km/h, since the raw distance/speed formula is overly sensitive at low speed / short range.
 
-## 📄 License
-
-MIT
+## AUTHOR - Ajmal Ahamed Z
