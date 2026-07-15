@@ -1,0 +1,6 @@
+../Core/Src/uart_shell.c:21:6:Shell_Init	32	static
+../Core/Src/uart_shell.c:34:6:Shell_RxCallback	24	static
+../Core/Src/uart_shell.c:54:13:reply	24	static
+../Core/Src/uart_shell.c:59:13:handle_command	328	static
+../Core/Src/uart_shell.c:110:6:Shell_Poll	8	static
+../Core/Src/uart_shell.c:120:6:Shell_SendTelemetry	328	static

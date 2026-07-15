@@ -1,0 +1,11 @@
+../Core/Src/ev_control.c:49:14:adc_read_channel	32	static
+../Core/Src/ev_control.c:66:6:EV_Init	16	static
+../Core/Src/ev_control.c:83:6:EV_Update	72	static
+../Core/Src/ev_control.c:144:19:EV_GetState	4	static
+../Core/Src/ev_control.c:146:6:EV_SetSpeedOverride	16	static
+../Core/Src/ev_control.c:147:6:EV_ClearSpeedOverride	4	static
+../Core/Src/ev_control.c:148:6:EV_SetSOC	16	static
+../Core/Src/ev_control.c:149:6:EV_SetMotorTemp	16	static
+../Core/Src/ev_control.c:150:6:EV_SetMode	16	static
+../Core/Src/ev_control.c:151:6:EV_SetState	16	static
+../Core/Src/ev_control.c:152:6:EV_CutTorque	16	static

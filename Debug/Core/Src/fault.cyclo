@@ -1,0 +1,5 @@
+../Core/Src/fault.c:28:6:Fault_Init	1
+../Core/Src/fault.c:34:6:Fault_Update	7
+../Core/Src/fault.c:73:9:Fault_GetByte	1
+../Core/Src/fault.c:75:6:Fault_InjectByte	1
+../Core/Src/fault.c:81:6:Fault_ClearAll	1
